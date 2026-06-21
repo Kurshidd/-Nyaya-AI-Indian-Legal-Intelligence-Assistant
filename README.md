@@ -89,9 +89,11 @@ This project follows a classic three-stage RAG pipeline:
 *********** important *********
 
 *** first option
+
 First do this work, make these three zip files into one zip file, then unzip it, then you will have a proper file.
 
 *** second option
+
 Extract these three zip files and then add the entire file and you will get a proper full file.
 
 ### 1. Clone the repository
